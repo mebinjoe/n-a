@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.example.couchbase.java</groupId>
-    <artifactId>demo.app</artifactId>
+    <artifactId>java-couchbase-angular-app</artifactId>
     <version>1.0-SNAPSHOT</version>
     <name>spring-boot-couchbase-angular</name>
     <description>Spring Boot Couchbase DB and Angularjs Paradigm</description>

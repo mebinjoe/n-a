@@ -61,5 +61,5 @@ typings/
 .next
 
 # Intellij idea
-.idea
-.iml
+*.idea
+*.iml
